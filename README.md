@@ -1,5 +1,3 @@
-[help(2).html](https://github.com/user-attachments/files/28862855/help.2.html)
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
